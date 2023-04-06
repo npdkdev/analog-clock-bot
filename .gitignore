@@ -1,0 +1,15 @@
+# ignore all .pyc files
+*.pyc
+*.session
+
+# ignore the virtual environment directory
+myenv/
+
+# ignore the __pycache__ directory
+__pycache__/
+
+# ignore the logs directory
+logs/
+
+# ignore the temp directory
+temp/
